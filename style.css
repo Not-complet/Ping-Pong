@@ -1,8 +1,16 @@
 body
 {
 background-size: cover;
+padding-bottom: 50px;
 }
 .heading{
     width:80%;
     font-size: 25px;
+}
+.footer{
+    bottom: 0;
+    position: fixed;
+    line-height: 1;
+    background-color: white;
+    width:100%;
 }
