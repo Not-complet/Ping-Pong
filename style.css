@@ -14,3 +14,7 @@ padding-bottom: 50px;
     background-color: white;
     width:100%;
 }
+canvas{
+    border:solid 2px black;
+    border-radius: 20px;
+}
